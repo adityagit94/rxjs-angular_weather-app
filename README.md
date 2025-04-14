@@ -22,7 +22,7 @@ A responsive weather forecasting web application built with Angular, RxJS, and t
 
 | City Selection | Weather Card |
 |----------------|--------------|
-| ![City Form]! (https://github.com/user-attachments/assets/5911f965-df41-410a-99b1-46a0956d2ab3) | ![Weather Card]! (https://github.com/user-attachments/assets/0cb9acd7-e5ac-4cb0-87fd-ba746289629b)
+| ![Screenshot 2025-04-13 202616](https://github.com/user-attachments/assets/e21f2913-26da-4242-bfbd-28cbf8c9e3c0) | ![Screenshot 2025-04-13 202625](https://github.com/user-attachments/assets/122c434b-6b8c-46b6-aa67-a322c2b52e73)
 
 ---
 
